@@ -2,8 +2,10 @@
 
 I'm lonelil, I'm a developer at [Prank.GG](https://prank.gg). I also make [DiscordGift.site](https://discordgift.site).
 
+## Links
+[![](https://img.shields.io/badge/-discord-5865F2?style=flat-square)](https://discord.com/users/603129750638034957)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/lonelilpriv)
+
 ---
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=lonelil&theme=dark&show_icons=true)](https://github.com/lonelil)
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/603129750638034957)](https://discord.com/users/603129750638034957)
