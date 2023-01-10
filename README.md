@@ -4,8 +4,8 @@ I'm lonelil, I'm a developer at [Prank.GG](https://prank.gg). I also make [Disco
 
 ## Links
 [![](https://img.shields.io/badge/-discord-5865F2?style=flat-square)](https://discord.com/users/603129750638034957)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/lonelilpriv)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/lonelilpublic)
 
 ---
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=lonelil&theme=dark&show_icons=true)](https://github.com/lonelil)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=lonelil&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/lonelil)
